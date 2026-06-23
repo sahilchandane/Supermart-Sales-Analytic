@@ -40,4 +40,4 @@ Designed a comprehensive Super Mart Sales Analytics Dashboard that visualizes bu
   # Dashboard Insight
   - <a href="https://github.com/sahilchandane/Supermart-Sales-Analytic/blob/main/sales%20report.pbix">Dashboard link </a>
   # Dashboard Screenshot
-  
+  <a href="https://github.com/sahilchandane/Supermart-Sales-Analytic/blob/main/sales%20report.pbix">Dashboard link </a>
