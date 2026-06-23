@@ -30,4 +30,12 @@ Designed a comprehensive Super Mart Sales Analytics Dashboard that visualizes bu
 # Trend Analysis
 - Sales and profit showed consistent growth from 2019 to 2020.
 - Strong business performance was observed during the final quarter of the year.
-  
+#  Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+  # Dashboard Insight
+  - <a href="
