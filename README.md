@@ -40,4 +40,9 @@ Designed a comprehensive Super Mart Sales Analytics Dashboard that visualizes bu
   # Dashboard Insight
   - <a href="https://github.com/sahilchandane/Supermart-Sales-Analytic/blob/main/sales%20report.pbix">Dashboard link </a>
   # Dashboard Screenshot
-  <a href="https://github.com/sahilchandane/Supermart-Sales-Analytic/blob/main/sales%20report.pbix">Dashboard link </a>
+  <a href="https://github.com/sahilchandane/Supermart-Sales-Analytic/blob/main/Screenshot%202026-06-23%20142706.png">Dashboard screenshot </a>
+  # Conclusion
+  The Super Mart Sales Analytics Dashboard successfully transformed retail transaction data into meaningful business insights, revealing key trends in sales, profitability, customer behavior, and regional performance. The analysis showed $1.57M in total sales, 22K units sold, and $175.26K profit, indicating strong business growth over the analysis period. The Consumer segment emerged as the largest revenue contributor, while Office Supplies and Phones were the top-performing category and sub-category respectively. Additionally, Cash on Delivery and Standard Class shipping were the most preferred customer choices.
+
+The dashboard also highlighted significant growth in both sales and profit from 2019 to 2020, with peak performance occurring during the final months of the year. Based on these insights, the business should focus on expanding high-performing product categories, strengthening customer retention strategies, promoting digital payment adoption, and investing in high-revenue regions. Overall, this project demonstrates how data-driven analytics can improve decision-making, enhance operational efficiency, and support long-term business growth
+  
